@@ -3,4 +3,4 @@ mvnw
 mvnw.cmd
 docker-gcp.iml
 
-.idea
+/.idea
